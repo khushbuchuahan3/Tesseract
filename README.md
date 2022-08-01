@@ -1,1 +1,1 @@
-# pytesserate
+# Tesseract
